@@ -14,6 +14,7 @@
 		F054DCAC2A5FE05D00C5D5EB /* FigmaTokenTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F054DCAB2A5FE05D00C5D5EB /* FigmaTokenTestTests.swift */; };
 		F054DCB62A5FE05D00C5D5EB /* FigmaTokenTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F054DCB52A5FE05D00C5D5EB /* FigmaTokenTestUITests.swift */; };
 		F054DCB82A5FE05D00C5D5EB /* FigmaTokenTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F054DCB72A5FE05D00C5D5EB /* FigmaTokenTestUITestsLaunchTests.swift */; };
+		F054DCC52A5FE68000C5D5EB /* token.json in Resources */ = {isa = PBXBuildFile; fileRef = F054DCC42A5FE68000C5D5EB /* token.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F054DCB12A5FE05D00C5D5EB /* FigmaTokenTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FigmaTokenTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F054DCB52A5FE05D00C5D5EB /* FigmaTokenTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigmaTokenTestUITests.swift; sourceTree = "<group>"; };
 		F054DCB72A5FE05D00C5D5EB /* FigmaTokenTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigmaTokenTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F054DCC42A5FE68000C5D5EB /* token.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = token.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F054DC9C2A5FE05C00C5D5EB /* ContentView.swift */,
 				F054DC9E2A5FE05D00C5D5EB /* Assets.xcassets */,
 				F054DCA02A5FE05D00C5D5EB /* Preview Content */,
+				F054DCC42A5FE68000C5D5EB /* token.json */,
 			);
 			path = FigmaTokenTest;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				F054DCA22A5FE05D00C5D5EB /* Preview Assets.xcassets in Resources */,
 				F054DC9F2A5FE05D00C5D5EB /* Assets.xcassets in Resources */,
+				F054DCC52A5FE68000C5D5EB /* token.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
